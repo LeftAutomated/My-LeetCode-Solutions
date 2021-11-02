@@ -30,19 +30,19 @@ Anticipated Agenda: __11 / 07 / 2021__ to __12 / 12 / 2021__
 ##### Memory Usage: 7.2 MB
 ##### Completed: 11/02/2021 11:14
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ##### Runtime: 0 ms
 ##### Memory Usage: 6.3 MB
 ##### Completed: 11/02/2021 11:31
 
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ##### Runtime: 16 ms
 ##### Memory Usage: 24.9 MB
 ##### Completed: 11/02/2021 13:44
 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 ##### Runtime: 108 ms
 ##### Memory Usage: 67.7 MB
