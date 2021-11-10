@@ -2,7 +2,7 @@
 
 [Blind 50 LeetCode List](https://techinterviewhandbook.org/best-practice-questions/) by Yangshun 
 
-Anticipated Agenda: __11 / 07 / 2021__ to __12 / 12 / 2021__
+Anticipated Agenda: 
 
 ## Week 1 - Sequences
 
